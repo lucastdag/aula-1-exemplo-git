@@ -13,11 +13,7 @@ Este é o meu repositório no GitHub. Estou começando minha jornada no mundo da
 📝 Projetos simples e tutoriais
 💡 Anotações e dicas
 🛠️ Experimentos com código
-🌱 Tecnologias que estou aprendendo:
-HTML
-CSS
-JavaScript
-Git e GitHub
+
 🎯 Objetivo
 Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no futuro.
 
